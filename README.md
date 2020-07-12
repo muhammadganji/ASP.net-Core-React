@@ -1,7 +1,7 @@
 # ASP.net-Core-React
 ASP.net core API and React UI
 
-<img src="https://github.com/lpln25/ASP.net-Core-React/blob/master/images/index.png" width="1024" height="310" />
+<img src="https://github.com/lpln25/ASP.net-Core-React/blob/master/images/index.png" width="1024" height="260" />
 
 ---
 ### 1.download and install packages for [`ASP.net API`](https://github.com/lpln25/ASP.net-Core-React/tree/master/ASP.net%20Core/webAPI)
@@ -32,5 +32,11 @@ Update-database
 
 ---
 ### 5.check your port on `ASP.net API` and `React UI`
-asp.net api port `55282`
+asp.net api port `55282` and 
 react port `3000`
+
+----
+
+<img src="https://github.com/lpln25/ASP.net-Core-React/blob/master/images/add%20Item.png" width="1024" height="260" />
+
+
