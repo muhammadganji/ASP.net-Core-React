@@ -1,0 +1,32 @@
+App structure
+-------------
+
+• src
+--------• actinos
+|       |
+|       |-- api.js (handle all http request)
+|       |-- dCandidate.js (Redux actions & action creators)
+|       |-- store.js (configure redux store)
+|       
+--------• components
+|       |-- DCandidateForm.js (form operations) - child
+|       |-- DCandidate.js (list of operations) - parent
+|       |-- useForm.js (handles common form operations)
+|       
+--------• reducers
+|       |
+|       |--dCandidate.js
+|       |--index.js
+|       
+|-- App.js
+|-- index.js
+|-- index.css
+
+
+package:
+redux, react-redux, redux-thunk
+
+action - create, update, delete etc ,data
+reducersstore
+
+cmpnt -> dispatch(action) -> reducer -> cmpnt
